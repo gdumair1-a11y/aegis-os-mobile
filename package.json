@@ -1,0 +1,1 @@
+{\n  "dependencies": {\n    "react": "7.4.0",\n    "react-native": "7.4.0",\n    "expo": "7.4.0",\n    "@react-native-async-storage/async-storage": "7.4.0",\n    "expo-location": "7.4.0",\n    "react-native-maps": "7.4.0",\n    "react-native-svg": "7.4.0"\n  }\n}
